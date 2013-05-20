@@ -7,68 +7,68 @@
 	{
         "type": "png",
         "defName": "IMAGE_MENU_ICON",
-        "file": "images/menu_icon_thai_big_time.png"
+        "file": "images/menu_icon_nikepebble.png"
 	},
 
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_0",
-        "file": "images/thai_num_0.png"
+        "file": "images/num_0.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_1",
-        "file": "images/thai_num_1.png"
+        "file": "images/num_1.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_2",
-        "file": "images/thai_num_2.png"
+        "file": "images/num_2.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_3",
-        "file": "images/thai_num_3.png"
+        "file": "images/num_3.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_4",
-        "file": "images/thai_num_4.png"
+        "file": "images/num_4.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_5",
-        "file": "images/thai_num_5.png"
+        "file": "images/num_5.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_6",
-        "file": "images/thai_num_6.png"
+        "file": "images/num_6.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_7",
-        "file": "images/thai_num_7.png"
+        "file": "images/num_7.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_8",
-        "file": "images/thai_num_8.png"
+        "file": "images/num_8.png"
         },
 
         {
         "type": "png",
         "defName": "IMAGE_NUM_9",
-        "file": "images/thai_num_9.png"
+        "file": "images/num_9.png"
         }
 
     ]
